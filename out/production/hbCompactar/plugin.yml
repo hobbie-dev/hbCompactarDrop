@@ -1,0 +1,7 @@
+name: hbCompactar
+version: 1.0
+api-version: 1.8
+author: hobbie
+main: me.hobbie.compactar.Main
+commands:
+  compactardrop:

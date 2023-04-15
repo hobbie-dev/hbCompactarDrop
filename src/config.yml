@@ -1,0 +1,23 @@
+# Plugin projetado e desenvolvido por hobbie | Versão: 1.0
+# Para sugerir adições, fale com o autor através do servidor de discord: https://discord.gg/ZjUcXkuxMy
+# Permissão para /compactardrop: hbplugin.compactar
+
+messages:
+  dont_permission: "&cVocê não possui permissão para utilizar este comando."
+  insufficient_items: "&cVocê não possui itens de venda suficientes para compactar."
+  drop_items: "&cNão foi possível adicionar todos os itens compactados em seu inventário, alguns foram jogados no chão!"
+  success_compact: "&aSeus itens de venda foram compactados com sucesso."
+  insufficient_money: "&cVocê não possui saldo o suficiente para executar este comando."
+
+names:
+  raw_beef: "&6Bife Cru Compactado"
+  leather: "&6Couro Compactado"
+  string: "&6Linha Compactada"
+  spider_eye: "&6Olho de Aranha Compactado"
+  rotten_flesh: "&6Carne Podre Compactada"
+  bone: "&6Osso Compactado"
+  arrow: "&6Flecha Compactada"
+  blaze_rod: "&6Vara de Blaze Compactada"
+
+pay_to_use: true # Caso true, ele custeará o jogador a cada vez que o comando ser executado
+coust: 250 # Custo caso a opção acima esteja no true

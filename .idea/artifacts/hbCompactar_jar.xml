@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hbCompactar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hbCompactar_jar</output-path>
+    <root id="archive" name="hbCompactar.jar">
+      <element id="module-output" name="hbCompactar" />
+    </root>
+  </artifact>
+</component>
